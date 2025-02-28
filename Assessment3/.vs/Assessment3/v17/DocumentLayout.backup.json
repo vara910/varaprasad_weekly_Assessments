@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|c:\\users\\vara.desktop-oiprrsn\\desktop\\assessment\\assessment3\\calculateareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|solutionrelative:calculateareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|c:\\users\\vara.desktop-oiprrsn\\desktop\\assessment\\assessment3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|c:\\users\\vara.desktop-oiprrsn\\desktop\\assessment\\assessment3\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|c:\\users\\vara.desktop-oiprrsn\\desktop\\assessment\\assessment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|c:\\users\\vara.desktop-oiprrsn\\desktop\\assessment\\assessment3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAF7FC5-587F-4926-B4D0-E21FD90A26E0}|Assessment3.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:36:43.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:36:53.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateAreas.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\CalculateAreas.cs",
+              "RelativeDocumentMoniker": "CalculateAreas.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\CalculateAreas.cs",
+              "RelativeToolTip": "CalculateAreas.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:35:40.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:36:38.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\Desktop\\Assessment\\Assessment3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:15:21.535Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
